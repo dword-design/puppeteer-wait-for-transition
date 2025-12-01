@@ -31,7 +31,7 @@
     "@dword-design/puppeteer": "^6.0.10",
     "@dword-design/tester": "^2.0.19",
     "@dword-design/tester-plugin-puppeteer": "^2.1.68",
-    "express": "^4.18.2"
+    "express": "^5.0.0"
   },
   "engines": {
     "node": ">=16"
